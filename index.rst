@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to E-commerce project using Java!
+Welcome to Commerce project using Java!
 ===============================================================
 
 .. toctree::
    :maxdepth: 2
    :numbered:
    
-   file1.md
+   clonedfile.md
    file2.md
    
    
